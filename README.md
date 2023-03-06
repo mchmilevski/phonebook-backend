@@ -1,8 +1,10 @@
-## Phonebook Backend
+## Phonebook Application
+
+The backend part of the Phonebook App.
  
 You can visit the online application on this [link](https://throbbing-sound-8802.fly.dev/)
 
-## Learning curves
+### Learning curves
 1. Implement a basic React App in order to learn Node.js and Express
 2. Made Frontend production build in order to deploy the frontend and make the backend to use that
 3. Implement a RESTful HTTP API
