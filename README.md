@@ -14,4 +14,5 @@ You can visit the online application on this [link](https://throbbing-sound-8802
 7. Using middlewares for error handling
 8. Implement validation for each data entry
 9. Added ESlint with some basic rules
-10. Structuring the backend app in order to use the Node.js best practices 
+10. Structuring the backend app in order to use the Node.js best practices
+11. Writing tests for the backend. Test the entire application through its REST API
